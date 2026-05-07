@@ -15,6 +15,7 @@ client_script {
 
 server_scripts {
     'server/main.lua',
+    'server/player.lua',
     'server/money.lua',
     'server/inventory.lua',
     'server/notify.lua',

@@ -14,6 +14,8 @@ Client Exports
 ```
 Server Exports
 ```
+    exports.tw_bridge:getPlayerObject(src)
+    exports.tw_bridge:getPlayerName(src, type)
     exports.tw_bridge:removeItem(src, item, amount)
     exports.tw_bridge:addItem(src, item, amount)
     exports.tw_bridge:takeMoney(src, amount, reason)
